@@ -1,0 +1,5 @@
+   .data
+string:
+   .asciiz "...."
+
+   .text
